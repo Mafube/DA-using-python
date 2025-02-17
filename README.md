@@ -24,6 +24,8 @@
 
 -Detect & handle outliers
 
+
+
 **2. Data Normalisation (Python)**
 
 2.1 Techniques:
